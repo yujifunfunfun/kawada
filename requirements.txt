@@ -1,0 +1,10 @@
+pandas
+numpy
+eel
+pyinstaller
+python-dotenv
+selenium
+webdriver_manager
+keepa
+python-amazon-sp-api
+python-dotenv
